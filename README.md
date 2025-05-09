@@ -6,7 +6,7 @@
 
 This is my personal developer portfolio built using modern web technologies. It showcases my projects, skills, background, and career highlights. The layout is fully responsive, customizable, and features both light and dark modes.
 
-Feel free to [view the live version](https://github.com/supervipe/Portfolio/).
+Feel free to [view the live version](https://supervipe.github.io/Portfolio/).
 
 ![screenshot](./src/assets/images/screenshot.png)
 
